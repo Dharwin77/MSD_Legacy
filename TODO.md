@@ -1,0 +1,8 @@
+- [x] Update navbar to be responsive (full width, flex-wrap for mobile)
+- [x] Change fixed widths in sections (.intromsd, .msddetails, #main-img) to max-width: 100%
+- [x] Make images responsive (max-width: 100%, height: auto)
+- [x] Make tables responsive (overflow-x: auto for mobile)
+- [x] Update trophy-container grid to fewer columns on mobile
+- [x] Make videos responsive (width: 100%)
+- [x] Fix and improve existing media queries for proper mobile responsiveness
+- [x] Adjust font sizes and spacing for mobile
